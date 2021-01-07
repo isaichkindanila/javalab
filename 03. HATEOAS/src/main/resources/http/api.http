@@ -1,0 +1,11 @@
+DELETE localhost:8080/api/a/1
+
+###
+
+GET localhost:8080/api/c/1
+
+###
+
+POST localhost:8080/api/c/1/makeQWE
+
+###

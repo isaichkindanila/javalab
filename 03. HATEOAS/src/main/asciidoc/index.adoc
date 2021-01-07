@@ -1,0 +1,17 @@
+= C
+
+== makeASD
+
+.request
+include::{snippets}/makeASD/http-request.adoc[]
+
+.response
+include::{snippets}/makeASD/http-response.adoc[]
+
+== makeQWE
+
+.request
+include::{snippets}/makeQWE/http-request.adoc[]
+
+.response
+include::{snippets}/makeQWE/http-response.adoc[]
