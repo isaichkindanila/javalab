@@ -1,0 +1,7 @@
+GET localhost:8080/c/search/qwe
+
+###
+PUT localhost:8080/e/5ff70be29b0d1b20dd012572/b
+Content-Type: text/uri-list
+
+http://localhost:8080/a/5ff70ba59b0d1b20dd01256b

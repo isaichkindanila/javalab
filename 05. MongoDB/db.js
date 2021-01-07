@@ -12,8 +12,8 @@ const b_id = db.b.insertMany([
 ]).insertedIds;
 
 const c_id = db.c.insertMany([
-    { value: { name: "QWE" } },
-    { value: { name: "ASD" } },
+    { value: "QWE" },
+    { value: "ASD" },
 ]).insertedIds;
 
 db.d.insert([
